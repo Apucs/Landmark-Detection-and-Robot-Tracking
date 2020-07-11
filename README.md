@@ -33,7 +33,7 @@ https://github.com/Apucs/Landmark-Detection-and-Robot-Tracking.git
 pip install -r requirements.txt
 ```
 
-##__Inference__
+## __Inference__
 > Initial __Omega__ matrix
 <p align="center">
   <img src="./images/omega.png" width=50% height=50% />
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 > Initial __Xi__ matrix
 <p align="center">
-  <img src="./images/xi.png" width=50% height=50% />
+  <img src="./images/xi.png" width=20% height=20% />
 </p>
 
 > __Robot world__
