@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 > Initial __Xi__ matrix
 <p align="center">
-  <img src="./images/xi.png" width=20% height=20% />
+  <img src="./images/xi.png" width=20% height=10% />
 </p>
 
 > __Robot world__
