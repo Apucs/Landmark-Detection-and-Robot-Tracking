@@ -28,6 +28,12 @@ https://github.com/Apucs/Landmark-Detection-and-Robot-Tracking.git
 ```
 pip install -r requirements.txt
 ```
+> jupyter==1.0.0  
+  matplotlib==2.1.1  
+  pandas==0.22.0  
+  numpy==1.12.1  
+  pillow==5.0.0  
+  scipy==1.0.0  
 
 ## __Inference__
 > Initial __Omega__ matrix
